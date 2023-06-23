@@ -1,0 +1,138 @@
+
+pwd
+whoami
+who am  i
+hostname
+uname -r
+uname-a
+last
+last login
+users
+date
+cal
+cal 2023
+hostnamectl
+cat /etc/os-release
+cat /etc/redhat-release
+cat /etc/rockeylinux-release
+cat /destination-directory/filename
+cat/destination-directory/filename
+cat>>/destination-directory/filename
+ctrl+d
+tree
+rpm -q packagename
+rpm -qi packagename
+rpm -Rqi package
+yum list installed
+yum list avaliable
+yum update -y
+yum remove package-name
+
+chmod u+rwx
+chmod u-rwx
+
+chmod 777 filename
+chmod 666 filename
+chmod 555 filename
+chmod 444 filename
+chmod 333 filename
+chmod 222 filename
+chmod 111 filename
+
+cat filename
+cat >>filename
+touch filename
+touch filename filename...nth filename
+touch filename{1.. nth filenumber}
+mkdir directory-name
+mkdir directory-name directory-name.. nth directory-name
+mkdir directory-name{1..nth directoryname}
+mkdir .directory-name
+mkdir-p directory-name/directory-name/.directory-name
+ls
+ls -l
+ls -a
+ls -la
+ls -r
+ls -lra
+ls -0
+ll
+ll -a
+ll -r
+ll -o
+ll -ro
+mv filename new filename
+mv soucce-path destination-path
+cp filename new-filename
+cp source-file-path destination-path
+cp -rsource-directory-path destination-path
+cp -rvfp source-directory-path destination-path
+cp source-dirctory-path .
+cp -rvfp source-directory-path .
+
+rm filename
+rm filename filename..nth filename
+rm source-path/filename
+rm -f filename
+rm -f source-path/filename ..nth filename
+rm -f sourcepath/filename
+rm -r directory-name
+rm -r dirctory-name directory-name ..nth directory-name
+rm -r source-directory-name
+rm filname{start..endnumber}
+rm -f filename{startnumber..end-number}
+cd ..
+cd directory-name
+cd directory-name/directory-name..nth directory name
+cd../../.. nth directory-number
+cd -
+init 0
+init 3
+init 5
+init 6
+
+reboot
+ free -h
+free -m
+free -h
+free -k
+free -b
+
+lsblk
+fdisk -l
+du -h
+ vifilename
+vimfilename
+i
+I
+A
+a
+O
+o
+w
+b
+nw
+nb
+dd
+ndd
+yy
+nyy
+p
+hjkl
+u
+x
+X
+g
+G
+set nu
+set nonu
+:!command
+:w
+:wq
+:w!
+:q!
+:q
+:wq!
+/ character-name
+/word-name
+
